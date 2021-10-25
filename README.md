@@ -2,7 +2,7 @@
 
 # XAI-image-classifiers-models
 
-This repo aims to use adverserial attacks[1] to explain the outcomes of a iimage classifier model with having access to the model weights. The adverserial algorithm utilizes the low frequency boundary attack[2] and is modified based on the implementation from (https://github.com/cg563/low-frequency-adversarial).
+This repo aims to use adverserial attacks[1] to explain the outcomes of a image classifier model "without" having access to the model weights. The adverserial algorithm utilizes the low frequency boundary attack[2] and is modified based on the implementation from (https://github.com/cg563/low-frequency-adversarial).
 
 <img src="demo_images/Fig1.JPEG" height="300"><img src="demo_images/Fig2.png" height="300">
 
